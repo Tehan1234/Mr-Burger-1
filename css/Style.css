@@ -17,7 +17,7 @@ body {
 }
 
 .welcome-box {
-  text-align: center;
+  text-align: left;
   background-color: #f0932b;
   padding: 100px;
   border-radius: 10px;
